@@ -1,0 +1,9 @@
+Identificacion = 44, 44, 591, 480, C, 22, 22, 464, 368, C
+Atender_pedido = 0, 8, 718, 611, C, 66, 66, 508, 412, C
+Tecnico_almacen = 88, 88, 530, 434, Z, 88, 88, 530, 434, C
+Consultar_pedidos_no_atendidos_CU05 = 154, 203, 729, 651, C, 110, 110, 552, 456, C
+Incidencia_pedido = 44, 44, 591, 480, C, 154, 154, 596, 500, C
+Consultar_Incidencias = 132, 174, 707, 622, C, 0, 0, 442, 346, C
+Consultar_Detalles_Incidencia = 110, 145, 685, 593, C, 22, 22, 464, 368, C
+Asignar_Stock = 14, 7, 652, 602, C, 44, 44, 486, 390, C
+librerias = 132, 174, 707, 622, C

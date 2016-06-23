@@ -1,0 +1,10 @@
+Identificacion = 8, 0, 731, 615, C, 14, 2, 475, 442, C
+Elaborar_pedido_CU02 = 44, 44, 648, 431, C, 110, 110, 603, 586, C
+Elaborar_pedido_nuevo_modif = 66, 66, 682, 453, C, 132, 132, 625, 608, C
+Consultar_catalogo = 110, 145, 685, 593, C, 154, 154, 647, 630, C
+Elaborar_pedido_consultar_enviados_almacen = 154, 203, 729, 651, C, 176, 176, 669, 652, C
+Elegir_nombre = 176, 176, 723, 612, C, 198, 198, 691, 674, C
+librerias = 2, 2, 723, 537, C
+Incidencia_pedido = 198, 198, 745, 634, C, 176, 176, 723, 612, C
+Consultar_Incidencias = 22, 22, 569, 458, C, 66, 66, 613, 502, C
+Consultar_Detalles_Incidencia = 0, 0, 547, 436, C, 88, 88, 635, 524, C
